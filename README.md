@@ -1,1 +1,1 @@
-# Email-Classifier
+# Email-Classifier using Multinomial Naive Bayes
